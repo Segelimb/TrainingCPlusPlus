@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BodyMovement", "project\Bod
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaxThree", "project\MaxThree\MaxThree.vcxproj", "{15D07BC2-BA1C-4197-95B3-6D51A9F6524B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaxFour", "project\MaxFour\MaxFour.vcxproj", "{A2CD4F78-13A7-41F3-8D0A-E41EFEC79094}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{15D07BC2-BA1C-4197-95B3-6D51A9F6524B}.Release|x64.Build.0 = Release|x64
 		{15D07BC2-BA1C-4197-95B3-6D51A9F6524B}.Release|x86.ActiveCfg = Release|Win32
 		{15D07BC2-BA1C-4197-95B3-6D51A9F6524B}.Release|x86.Build.0 = Release|Win32
+		{A2CD4F78-13A7-41F3-8D0A-E41EFEC79094}.Debug|x64.ActiveCfg = Debug|x64
+		{A2CD4F78-13A7-41F3-8D0A-E41EFEC79094}.Debug|x64.Build.0 = Debug|x64
+		{A2CD4F78-13A7-41F3-8D0A-E41EFEC79094}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2CD4F78-13A7-41F3-8D0A-E41EFEC79094}.Debug|x86.Build.0 = Debug|Win32
+		{A2CD4F78-13A7-41F3-8D0A-E41EFEC79094}.Release|x64.ActiveCfg = Release|x64
+		{A2CD4F78-13A7-41F3-8D0A-E41EFEC79094}.Release|x64.Build.0 = Release|x64
+		{A2CD4F78-13A7-41F3-8D0A-E41EFEC79094}.Release|x86.ActiveCfg = Release|Win32
+		{A2CD4F78-13A7-41F3-8D0A-E41EFEC79094}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
