@@ -11,6 +11,6 @@ int main()
     }
     else
         x = x - 1;
-    cout << y;
+    y = x - 1;
     cout << x << y;
 }
