@@ -1,3 +1,2 @@
 #pragma once
-
-long long factorial(unsigned int a)
+long long factorial(unsigned int a);

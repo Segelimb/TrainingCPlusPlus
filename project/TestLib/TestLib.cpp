@@ -1,16 +1,14 @@
 ﻿#include <iostream>
+#include "FactorialLib.h"
+using namespace std;
 
-long long factorial(unsigned int a)
-{
-	long long result = 1;
-	for (int i = 1; i <= a; i++)
-	{
-		result = result * i;
-	}
-	return result;
-}
 
 int main()
 {
-    std::cout << factorial(10);
+    setlocale(LC_ALL, "");
+    cout << "Программа нахождения факториала числа\n\n";
+	unsigned int a;
+	cout << "Введите число: ";
+	cin >> a;
+	cout << "Факториал числа " << a << " равен " << factorial(a) << endl;
 }
