@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FactorialLib", "project\Fac
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrtLib", "project\CrtLib\CrtLib.vcxproj", "{FF90758F-EE9D-47F2-A984-E26E9944C581}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MazeGame", "project\MazeGame\MazeGame.vcxproj", "{61CF6BC7-D5A4-494A-BE5C-EDA24148AA3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{FF90758F-EE9D-47F2-A984-E26E9944C581}.Release|x64.Build.0 = Release|x64
 		{FF90758F-EE9D-47F2-A984-E26E9944C581}.Release|x86.ActiveCfg = Release|Win32
 		{FF90758F-EE9D-47F2-A984-E26E9944C581}.Release|x86.Build.0 = Release|Win32
+		{61CF6BC7-D5A4-494A-BE5C-EDA24148AA3D}.Debug|x64.ActiveCfg = Debug|x64
+		{61CF6BC7-D5A4-494A-BE5C-EDA24148AA3D}.Debug|x64.Build.0 = Debug|x64
+		{61CF6BC7-D5A4-494A-BE5C-EDA24148AA3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{61CF6BC7-D5A4-494A-BE5C-EDA24148AA3D}.Debug|x86.Build.0 = Debug|Win32
+		{61CF6BC7-D5A4-494A-BE5C-EDA24148AA3D}.Release|x64.ActiveCfg = Release|x64
+		{61CF6BC7-D5A4-494A-BE5C-EDA24148AA3D}.Release|x64.Build.0 = Release|x64
+		{61CF6BC7-D5A4-494A-BE5C-EDA24148AA3D}.Release|x86.ActiveCfg = Release|Win32
+		{61CF6BC7-D5A4-494A-BE5C-EDA24148AA3D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
