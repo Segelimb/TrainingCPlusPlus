@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MazeGame", "project\MazeGam
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FrameNew", "project\FrameNew\FrameNew.vcxproj", "{C91E8DCD-9B67-4D1C-948B-9E66A72C66E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TableChar", "project\TableChar\TableChar.vcxproj", "{6EF7469B-7CB9-4332-8EAA-BDB9BEC783F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{C91E8DCD-9B67-4D1C-948B-9E66A72C66E5}.Release|x64.Build.0 = Release|x64
 		{C91E8DCD-9B67-4D1C-948B-9E66A72C66E5}.Release|x86.ActiveCfg = Release|Win32
 		{C91E8DCD-9B67-4D1C-948B-9E66A72C66E5}.Release|x86.Build.0 = Release|Win32
+		{6EF7469B-7CB9-4332-8EAA-BDB9BEC783F0}.Debug|x64.ActiveCfg = Debug|x64
+		{6EF7469B-7CB9-4332-8EAA-BDB9BEC783F0}.Debug|x64.Build.0 = Debug|x64
+		{6EF7469B-7CB9-4332-8EAA-BDB9BEC783F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{6EF7469B-7CB9-4332-8EAA-BDB9BEC783F0}.Debug|x86.Build.0 = Debug|Win32
+		{6EF7469B-7CB9-4332-8EAA-BDB9BEC783F0}.Release|x64.ActiveCfg = Release|x64
+		{6EF7469B-7CB9-4332-8EAA-BDB9BEC783F0}.Release|x64.Build.0 = Release|x64
+		{6EF7469B-7CB9-4332-8EAA-BDB9BEC783F0}.Release|x86.ActiveCfg = Release|Win32
+		{6EF7469B-7CB9-4332-8EAA-BDB9BEC783F0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
