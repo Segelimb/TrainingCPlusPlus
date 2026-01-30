@@ -5,7 +5,7 @@ int sumArray(int array[], int size)
 {
 	size--;
 	if (size == 0) return array[size];
-	else sumArray(array, size - 1);
+	else return array[size] + sumArray(array, size);
 }
 
 int main()
